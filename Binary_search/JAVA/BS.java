@@ -1,3 +1,4 @@
+package Binary_search.JAVA;
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
